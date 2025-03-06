@@ -29,7 +29,7 @@ app.engine('ejs',ejsMate);
 app.use(express.static(path.join(__dirname,"/public")));
 
 app.get("/", (req, res) => {
-  res.redirect("/listings");
+    res.redirect("/listings");
 });
 
 const dbUrl=process.env.ATLASDB_URL;

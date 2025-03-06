@@ -1,4 +1,6 @@
-# Airbnb CloneThis project is a clone of the popular vacation rental platform, Airbnb. It allows users to create, view, edit, and delete listings, as well as leave reviews for listings. The project is built using Node.js, Express, MongoDB, and EJS for templating.
+# Airbnb Clone
+
+This project is a clone of the popular vacation rental platform, Airbnb. It allows users to create, view, edit, and delete listings, as well as leave reviews for listings. The project is built using Node.js, Express, MongoDB, and EJS for templating.
 
 ## Features
 

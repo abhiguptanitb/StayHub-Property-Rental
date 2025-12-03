@@ -98,7 +98,7 @@ StayHub is a comprehensive property rental platform that enables users to discov
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/abhiguptanitb/StayHub.git
+git clone https://github.com/abhiguptanitb/StayHub-Property-Rental.git
 cd StayHub
 ```
 
